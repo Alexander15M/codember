@@ -6,5 +6,6 @@ Repository for solution of challenges and secrets for the [Codember](https://cod
 
 ## 2023
 
-| Challenge | Solution(s) |
+| Challenge |          Solution(s)          |
+| :-------: | :---------------------------: |
 | A spy is sending encrypted messages | TBD |
